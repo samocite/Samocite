@@ -1,6 +1,8 @@
 <div align="center">
   
 # Hi, I'm Samocite
+
+**Student, Just wanna know more about Computer**
   
 </div>
 
