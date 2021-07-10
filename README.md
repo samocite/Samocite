@@ -6,10 +6,10 @@
 
 ## About me
 
--I'm currently learning:
-  -**Algorithm**
-  -**Exploit**
-  -**Software Engineering**
+- I'm currently learning:
+  - **Algorithm**
+  - **Exploit**
+  - **Software Engineering**
 
 <div align="center">
   
