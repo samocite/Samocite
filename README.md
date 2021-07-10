@@ -13,6 +13,7 @@
   - **Exploit**
   - **Software Engineering**
 
+## Stats
 <div align="center">
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Samocite)](https://github.com/anuraghazra/github-readme-stats)
