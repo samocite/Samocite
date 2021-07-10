@@ -6,9 +6,10 @@
 
 ## About me
 
-I'm a student who is learning Computer Science and Security
-
-## Stats
+-I'm currently learning:
+  -**Algorithm**
+  -**Exploit**
+  -**Software Engineering**
 
 <div align="center">
   
