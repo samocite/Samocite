@@ -9,9 +9,10 @@
 ## About me
 
 - I'm currently learning:
-  - **Algorithm**
-  - **Exploit**
-  - **Software Engineering**
+  - **Code Review**
+  - **SICP, Structure and Interpretation of Computer Programs @ MIT 6.001**
+  - **Reverse Engineering**
+  - **data structure**
 
 ## Stats
 <div align="center">
