@@ -10,9 +10,8 @@
 
 - I'm currently learning:
   - **Code Review**
-  - **SICP, Structure and Interpretation of Computer Programs @ MIT 6.001**
-  - **Reverse Engineering**
-  - **data structure**
+  - **Java Web**
+  - **Post Exploitation**
 
 ## Stats
 <div align="center">
